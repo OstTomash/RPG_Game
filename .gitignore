@@ -1,0 +1,5 @@
+.idea
+characters/__pycache__/
+equipment/__pycache__/
+game/__pycache__/
+npc/__pycache__/
